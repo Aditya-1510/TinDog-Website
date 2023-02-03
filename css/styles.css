@@ -1,0 +1,163 @@
+body {
+  font-family: montserrat;
+}
+h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+em {
+  color: #fff;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.nav-link {
+  color: white;
+  font-size: 20px;
+  opacity: 0.5;
+  padding: 10px;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  color: white;
+  font-size: 30px;
+  font-size: 2.5rem;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.col-lg-6 {
+  padding-top: 60px;
+}
+
+.phone-img {
+  /* position: static; */
+  width: 20%;
+  transform: rotate(25deg);
+  position:absolute;
+}
+
+.nav-items {
+  padding: 0 18px 0;
+  font-weight: bold;
+}
+
+.download-button {
+  margin: 5% 2% 5% 0;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* testimonials */
+#testimonials {
+
+  text-align: center;
+  background-color: #ef8172;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.dog-img {
+  border-radius: 50px;
+  width: 10%;
+  margin: 20px;
+}
+.lady-image {
+  border-radius: 50px;
+  width: 10%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%:
+}
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.pricing{
+  width: 70%;
+  margin:auto;
+}
+.price{
+  width: 40%;
+  margin:auto;
+  padding:100px 0 35px;
+}
+#cta{
+text-align: center;
+padding:100px 15% 40px;
+background-color:  #ff4c68;
+margin-top: 150px;
+}
+.call-action{
+  line-height: 1.5;
+  font-size: 3.2rem;
+  font-weight: bolder;
+  color: #fff;
+}
+.download-bottom{
+    margin: 5% 2% 5% 0;
+}
+.copyright{
+  text-align: center;
+  color: black;
+}
+.owner{
+  text-align: center;
+  color: black;
+  margin-bottom:100px;
+}
+.icons{
+  width: 25%;
+  margin: auto;
+  font-size: 2em;
+  margin-top: 100px;
+  padding: 4% 2% 2% 4%;
+}
